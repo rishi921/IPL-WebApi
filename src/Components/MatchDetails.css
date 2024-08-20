@@ -1,0 +1,15 @@
+.match-details-container {
+    padding: 20px;
+    background-color: #e6f7ff;
+    border-radius: 8px;
+}
+
+.match-details-container ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.match-details-container li {
+    margin: 10px 0;
+    font-size: 16px;
+}
